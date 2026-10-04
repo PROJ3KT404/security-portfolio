@@ -4,7 +4,9 @@ Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
 Target role: Cloud Security Engineer / Penetration Tester (Red Teamer) / SOC Analyst / Security Analyst 
+
 Currently: [N/A] | [FLORIDA / Remote]
+
 Contact: [PROJ3KT404@GMAIL.COM] · [LinkedIn URL]
 
 ## Investigations
